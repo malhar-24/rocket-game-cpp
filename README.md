@@ -6,15 +6,17 @@
 
 ## Overview
 
+This game was created for fun by editing the classic Snake game C++ code available online. The original Snake game was a source of inspiration and a starting point for this project.
+
 Blast off into space with this engaging rocket game written in C++. Navigate your rocket, dodge obstacles, and manage your fuel to achieve high scores. The game features real-time updates and a simple command interface for an exciting gameplay experience.
 
 ## Screenshots
 
 Here’s what the game looks like:
 
-![Gameplay Screenshot](ss1.jpg)
-![Gameplay Screenshot](ss2.jpg)
-![Gameplay Screenshot](ss3.jpg)
+![Gameplay Screenshot](ss1.JPG)
+![Gameplay Screenshot](ss2.JPG)
+![Gameplay Screenshot](ss3.JPG)
 
 ## Features
 
