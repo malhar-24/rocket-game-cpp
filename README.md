@@ -36,14 +36,6 @@ Here’s what the game looks like:
 
 
 
-## Execution
-
-Run the compiled game executable:
-
-```bash
-./rocket_game
-```
-
 ## Game Instructions
 
 1. **Start the Game**: Compile and run the game executable.
